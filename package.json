@@ -1,13 +1,15 @@
 {
   "name": "vue2-dojah",
-  "version": "0.0.5",
-  "description": "",
+  "version": "0.0.7",
+  "author": "Wisdom Ekpot <wisdomekpot@gmail.com>",
+  "description": "Dojah wrapper for vue 2",
   "main": "dist/vue2-dojah.ssr.js",
   "browser": "dist/vue2-dojah.esm.js",
   "module": "dist/vue2-dojah.esm.js",
   "unpkg": "dist/vue2-dojah.min.js",
   "homepage": "https://github.com/Wisdom132/vue2-dojah",
   "repository": "https://github.com/Wisdom132/vue2-dojah",
+  "keywords": ["Vuejs", "Dojah", "Webpack"],
   "files": [
     "dist/*",
     "src/**/*.vue"
