@@ -6,6 +6,8 @@
   "browser": "dist/vue2-dojah.esm.js",
   "module": "dist/vue2-dojah.esm.js",
   "unpkg": "dist/vue2-dojah.min.js",
+  "homepage": "https://github.com/Wisdom132/vue2-dojah",
+  "repository": "https://github.com/Wisdom132/vue2-dojah",
   "files": [
     "dist/*",
     "src/**/*.vue"
